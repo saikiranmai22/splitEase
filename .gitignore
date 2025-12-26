@@ -1,0 +1,33 @@
+# Java
+backend/target/
+backend/*.jar
+backend/*.war
+backend/*.ear
+backend/.mvn/wrapper/maven-wrapper.jar
+backend/.settings/
+backend/.project
+backend/.classpath
+backend/bin/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*.DS_Store
+
+# Misc
+.env
+.env.local
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
