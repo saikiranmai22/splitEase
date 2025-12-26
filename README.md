@@ -25,7 +25,7 @@ SplitEase is a full-stack web application designed to simplify the process of sh
 - **Backend**: Spring Boot 3.4.1, Java 17, Spring Data JPA.
 - **Database**: PostgreSQL.
 
-## 🏁 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Java 17 or higher
